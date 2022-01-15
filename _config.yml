@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+title: A (mostly) Tech Blog
+description: A software developer, sharing (hopefully!) interesting stuff
+plugins:
+  - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
